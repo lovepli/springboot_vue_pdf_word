@@ -1,0 +1,15 @@
+[main] [INFO]-2020-08-18 21:51:07,781-com.yxyz.YxyzApplication#55 Starting YxyzApplication on MMC-PC with PID 5108 (started by Administrator in F:\workproject\曾阿牛团队\分享案例\excel导出\数据服务平台\认证中心源码\yxyz)
+[main] [DEBUG]-2020-08-18 21:51:07,782-com.yxyz.YxyzApplication#56 Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[main] [INFO]-2020-08-18 21:51:07,783-com.yxyz.YxyzApplication#655 The following profiles are active: dev
+[main] [INFO]-2020-08-18 21:51:18,746-com.yxyz.YxyzApplication#61 Started YxyzApplication in 12.817 seconds (JVM running for 14.017)
+[http-nio-8080-exec-6] [INFO]-2020-08-18 21:52:10,816-com.yxyz.util.AsposeUtil#84 as开始：E:/pdf_orin/02aeafacd0e84e4ebd303a333fcdc85c.docx
+[http-nio-8080-exec-6] [INFO]-2020-08-18 21:52:36,211-com.yxyz.util.AsposeUtil#89 完成：E:/pdf_temp/02aeafacd0e84e4ebd303a333fcdc85c.pdf
+[http-nio-8080-exec-6] [INFO]-2020-08-18 21:52:36,211-com.yxyz.util.AsposeUtil#90 共耗时：25.394秒
+[main] [INFO]-2020-08-18 23:04:01,422-com.yxyz.YxyzApplication#55 Starting YxyzApplication on MMC-PC with PID 5436 (started by Administrator in F:\workproject\曾阿牛团队\分享案例\excel导出\数据服务平台\认证中心源码\yxyz)
+[main] [DEBUG]-2020-08-18 23:04:01,423-com.yxyz.YxyzApplication#56 Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[main] [INFO]-2020-08-18 23:04:01,424-com.yxyz.YxyzApplication#655 The following profiles are active: dev
+[main] [INFO]-2020-08-18 23:04:08,866-com.yxyz.YxyzApplication#61 Started YxyzApplication in 8.156 seconds (JVM running for 8.894)
+[main] [INFO]-2020-08-18 23:11:01,794-com.yxyz.YxyzApplication#55 Starting YxyzApplication on MMC-PC with PID 1272 (started by Administrator in F:\workproject\曾阿牛团队\分享案例\excel导出\数据服务平台\认证中心源码\yxyz)
+[main] [DEBUG]-2020-08-18 23:11:01,795-com.yxyz.YxyzApplication#56 Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[main] [INFO]-2020-08-18 23:11:01,796-com.yxyz.YxyzApplication#655 The following profiles are active: dev
+[main] [INFO]-2020-08-18 23:11:08,866-com.yxyz.YxyzApplication#61 Started YxyzApplication in 7.801 seconds (JVM running for 8.567)

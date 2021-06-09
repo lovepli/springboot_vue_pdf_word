@@ -1,0 +1,7 @@
+[main] [INFO]-2020-07-08 01:32:26,518-com.yxyz.YxyzApplication#55 Starting YxyzApplication v0.0.1-SNAPSHOT on MMC-PC with PID 6788 (F:\workproject\曾阿牛团队\分享案例\excel导出\数据服务平台\认证中心源码\yxyz\target\yxyz-0.0.1-SNAPSHOT.jar started by Administrator in F:\workproject\曾阿牛团队\分享案例\excel导出\数据服务平台\认证中心源码\yxyz\target)
+[main] [DEBUG]-2020-07-08 01:32:26,521-com.yxyz.YxyzApplication#56 Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[main] [INFO]-2020-07-08 01:32:26,522-com.yxyz.YxyzApplication#655 The following profiles are active: dev
+[main] [INFO]-2020-07-08 01:32:33,541-com.yxyz.YxyzApplication#61 Started YxyzApplication in 8.087 seconds (JVM running for 9.14)
+[main] [INFO]-2020-07-08 01:33:32,106-com.yxyz.YxyzApplication#55 Starting YxyzApplication v0.0.1-SNAPSHOT on MMC-PC with PID 6184 (F:\workproject\曾阿牛团队\分享案例\excel导出\数据服务平台\认证中心源码\yxyz\target\yxyz-0.0.1-SNAPSHOT.jar started by Administrator in F:\workproject\曾阿牛团队\分享案例\excel导出\数据服务平台\认证中心源码\yxyz\target)
+[main] [DEBUG]-2020-07-08 01:33:32,109-com.yxyz.YxyzApplication#56 Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[main] [INFO]-2020-07-08 01:33:32,110-com.yxyz.YxyzApplication#655 The following profiles are active: dev

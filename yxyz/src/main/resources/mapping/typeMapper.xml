@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yxyz.dao.TypeDao">
+
+	<select id="findAll" resultType="com.yxyz.vo.Type">
+		select t1.* from t_type t1 order by t1.category asc
+	</select>
+	
+</mapper>

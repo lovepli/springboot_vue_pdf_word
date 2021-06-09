@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yxyz.dao.UserDao">
+	
+	<insert id="insert" parameterType="com.yxyz.vo.User">
+		INSERT 
+			INTO T_USER(USERNAME,PWD,ZT,CREATEDATE,EMAIL,CODE)
+		VALUES
+		(
+			#{username,jdbcType=VARCHAR},#{pwd,jdbcType=VARCHAR},
+			#{zt,jdbcType=INTEGER},#{createdate,jdbcType=TIMESTAMP},
+			#{email,jdbcType=VARCHAR},#{code,jdbcType=VARCHAR}
+		)
+	</insert>
+	
+	<update id="update" parameterType="java.lang.String">
+		UPDATE T_USER SET ZT = 1 WHERE CODE = #{code}
+	</update>
+	
+	<select id="findByUserName" parameterType="java.lang.String" resultType="com.yxyz.vo.User">
+		SELECT * FROM T_USER WHERE USERNAME = #{username}
+	</select>
+	
+	<select id="findByNameAndPwd" parameterType="java.util.Map" resultType="com.yxyz.vo.User">
+		SELECT * FROM T_USER WHERE USERNAME = #{username} and PWD = #{pwd}
+	</select>
+</mapper>
