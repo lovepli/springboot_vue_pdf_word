@@ -210,15 +210,4 @@ public class AsposeUtil
 		
 		return false;
 	}
-	public static void main(String[] args) 
-	{
-		String wordpath = "F:\\二次众联\\南京汽融\\附件6：兴业银行南京分行盐城汽融项目系统测试报告.docx";
-		
-		String excelpath = "C:\\Users\\Administrator\\Desktop\\CD2020004杜承隆_第33周20200817.xlsx";
-		
-		String savePath = "C:\\Users\\Administrator\\Desktop\\民政查询_ducl\\";
-		
-		trans(wordpath, savePath+"1.pdf");
-		trans(excelpath, savePath+"2.pdf");
-	}
 }
